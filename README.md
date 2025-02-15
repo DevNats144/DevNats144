@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @DevNats144
-- 👀 I’m interested in ...
+- 👀 I’m realy interested in give my contribut on an open source project.
+- 
 - 🌱 I’m currently learning Git and web developing
 - 💞️ I’m looking to collaborate on real projects
 - 📫 How to reach me "natanielg73@gmail.com"
+  
 - ⚡ Continuos Grow in this area .
 
 <!---
